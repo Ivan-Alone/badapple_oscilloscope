@@ -2,6 +2,8 @@
 
 _Playing "Bad Apple!!" On Oscilloscope_
 
+Forked to add modded (with inverted right channel) Bad Apple WAV file. It's available in Releases tab
+
 ## Preview
 
 [Bad Apple!! (YouTube)](https://www.youtube.com/watch?v=NnQF0sojl_0)
